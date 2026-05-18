@@ -6,7 +6,7 @@ Nalla-Nudi is a native, offline-first Android application engineered to bridge t
 
 ## 📱 User Interface & Features
 
-| Home Screen | Word Details (Bilingual) |
+| Home Screen | Word Details |
 | :---: | :---: |
 | <img src="screenshot/home screen.jpeg" width="320" alt="Home Screen"/> | <img src="screenshot/meaning.jpeg" width="320" alt="Word Details"/> |
 

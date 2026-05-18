@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="tagline">Bridge-Dictionary for STEM Students</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="search_placeholder">Search a term in English...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_science">Science</string>
+    <string name="filter_math">Math</string>
+    <string name="filter_commerce">Commerce</string>
+    <string name="empty_title">No terms found</string>
+    <string name="my_list">My List</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="get_started">Get Started</string>
+    <string name="listen">Listen</string>
+    <string name="bookmark">Bookmark</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಲ್ಲ-ನುಡಿ</string>
+    <string name="tagline">STEM ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸೇತುವೆ-ನಿಘಂಟು</string>
+    <string name="word_of_the_day">ದಿನದ ಪದ</string>
+    <string name="search_placeholder">ಇಂಗ್ಲಿಷ್ ಪದ ಹುಡುಕಿ...</string>
+    <string name="filter_all">ಎಲ್ಲ</string>
+    <string name="filter_science">ವಿಜ್ಞಾನ</string>
+    <string name="filter_math">ಗಣಿತ</string>
+    <string name="filter_commerce">ವಾಣಿಜ್ಯ</string>
+    <string name="empty_title">ಯಾವ ಪದವೂ ಸಿಗಲಿಲ್ಲ</string>
+    <string name="my_list">ನನ್ನ ಪಟ್ಟಿ</string>
+    <string name="flashcards">ಫ್ಲ್ಯಾಶ್‌ಕಾರ್ಡ್‌ಗಳು</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="listen">ಕೇಳಿ</string>
+    <string name="bookmark">ಬುಕ್‌ಮಾರ್ಕ್</string>
+</resources>

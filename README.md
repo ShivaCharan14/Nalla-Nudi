@@ -1,4 +1,4 @@
-# Nalla-Nudi (ನಲ್ಲ-ನುಡಿ) 👋
+# Nalla-Nudi (ನಲ್ಲ-ನುಡಿ) 
 
 Nalla-Nudi is a native, offline-first Android application engineered to bridge the linguistic gap for STEM (Science, Technology, Engineering, and Mathematics) students. By translating complex, professional technical terms from English into structured Kannada, the platform ensures that language limitations do not act as a barrier to qualitative technical education and professional growth.
 
